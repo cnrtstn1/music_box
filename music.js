@@ -71,19 +71,4 @@ function playPause(index, button) {
 }
 
 
-// ad,
-//     soyad,
-//     telefon,
-//     profil foto yuvarlak.
- 
-// Form olacak ve submit edeceksin.
 
-// Tabloda bilgiler sırasıyla gösterilecek. 
-
-
-// telefonun input  içine + 90 5384444444
-
-// telefonu yanında ara tuşu ve whatsupp arama yapabilcek.
-
-
-// sayfa yenilenince kayıtlı tüm datalar ekranda kalmaya devam edecek.localstorage a kaydet.
